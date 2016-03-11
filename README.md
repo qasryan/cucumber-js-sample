@@ -18,4 +18,5 @@
   
 ### Usage
 From the cucumber-js-sample directory
+
 `$ npm test`
